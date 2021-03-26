@@ -1,0 +1,3 @@
+include ':libwebrtc_19324'
+include ':app'
+rootProject.name = "MyVideoCall"

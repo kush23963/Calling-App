@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyVideoCall</string>
+    <string name="hangup">Hangup</string>
+</resources>
